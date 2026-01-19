@@ -89,25 +89,26 @@ SQL techniques used:
 
 ## 📈 Key Findings
 
-- DTW (Detroit) is the worst-performing airport by average delay.
+### DTW (Detroit) is the worst-performing airport by average delay.
 <img width="682" height="323" alt="detroit_bi_table" src="https://github.com/user-attachments/assets/dd993b8a-eb37-405e-b33e-6736a2b766d9" />
 
 ---
 
   
-- Nearly 50% of flights are delayed across all airports.
+### Nearly 50% of flights are delayed across all airports.
 <img width="1530" height="480" alt="ontime_flight_%_bi" src="https://github.com/user-attachments/assets/b5963f32-5c14-4bb2-835e-5f15c35141b5" />
+
 ---
 
-- Short-haul flights show limited delay recovery capability.
+### Short-haul flights show limited delay recovery capability.
 <img width="777" height="245" alt="detroit vs new york sql" src="https://github.com/user-attachments/assets/16401837-7d5b-4388-8d0f-c4a9025f82b4" />
 
 ---
 
-- Peak delays occur between Thursday and Monday.
+### Peak delays occur between Thursday and Monday.
 <img width="322" height="217" alt="weekday_pattern_sql" src="https://github.com/user-attachments/assets/5c602d6a-c190-459b-8f7b-4dee3ef23816" />
 ---
-- Several flights experience large arrival delays even after departure recovery.
+### Several flights experience large arrival delays even after departure recovery.
 
 ---
 
@@ -155,5 +156,6 @@ Aviation-Flight-Delay-Analytics/
 │   └── project_report.pdf
 │
 └── README.md
+
 
 
