@@ -107,8 +107,6 @@ SQL techniques used:
 
 ### Peak delays occur between Thursday and Monday.
 <img width="322" height="217" alt="weekday_pattern_sql" src="https://github.com/user-attachments/assets/5c602d6a-c190-459b-8f7b-4dee3ef23816" />
----
-### Several flights experience large arrival delays even after departure recovery.
 
 ---
 
@@ -156,6 +154,7 @@ Aviation-Flight-Delay-Analytics/
 │   └── project_report.pdf
 │
 └── README.md
+
 
 
 
