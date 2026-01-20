@@ -132,8 +132,6 @@ SQL techniques used:
 
 This project demonstrates a complete Business Intelligence lifecycle, from raw data preparation to SQL analysis and dashboard reporting. It highlights that operational congestion and scheduling behavior play a larger role in flight delays than distance alone.
 
-The project serves as a strong portfolio example for Data Analyst and Business Intelligence roles.
-
 ---
 
 ## 📁 Project Structure
@@ -151,6 +149,10 @@ Aviation-Flight-Delay-Analytics/
 ├── Aviation_Flight_Delay_Analytics_Report.pdf
 │
 └── README.md
+
+```
+hi
+
 
 
 
