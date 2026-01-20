@@ -141,19 +141,17 @@ The project serves as a strong portfolio example for Data Analyst and Business I
 ```text
 Aviation-Flight-Delay-Analytics/
 │
-├── data/
-│   └── cleaned_flight_data.csv
+├── Pandas_note_book.ipynb
+├── flights_cleaned.csv
 │
-├── sql/
-│   └── analytical_queries.sql
+├── setup.sql
+├── queries.sql
 │
-├── powerbi/
-│   └── dashboard.pbix
-│
-├── report/
-│   └── project_report.pdf
+├── Aviation_Dashboard.pbix
+├── Aviation_Flight_Delay_Analytics_Report.pdf
 │
 └── README.md
+
 
 
 
