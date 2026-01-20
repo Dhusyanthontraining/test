@@ -139,6 +139,7 @@ This project demonstrates a complete Business Intelligence lifecycle, from raw d
 ```text
 Aviation-Flight-Delay-Analytics/
 │
+├── flight.csv
 ├── Pandas_note_book.ipynb
 ├── flights_cleaned.csv
 │
@@ -153,11 +154,23 @@ Aviation-Flight-Delay-Analytics/
 ```
 ---
 
-hi
+-----
+Files :
+-----
+
+The file used for the project can be downloaded [here](link)
+
+The Pandas(Python) code for setting up that data for a next levela analysis can be downloaded [here](link)
+
+The SQL table set up (Data Integrety ) can be downloaded  [here](link) 
+
+The SQL file analytical queries can be downloaded [here](link)
+
+The Power BI dashboard file can be downloaded [here](link)
 
 
+About the Author
+----------------
+Name: Dhusyanth R S
 
-
-
-
-
+LinkedIn: www.linkedin.com/in/dhusyanth-r-s-
